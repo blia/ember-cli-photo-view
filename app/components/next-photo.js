@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-photo-view/components/next-photo';
